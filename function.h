@@ -21,5 +21,10 @@ everythingisawesome::~everythingisawesome()
 
 void everythingisawesome::hello()
 {
-	std::cout << "hello" << std::endl;
+	int i = 0;
+    std::cout << "hello" << std::endl;
+    std::cout << "everything is awesome!" << std::endl;
+    std::cout << "input an integer: ";
+    std::cin >> i;
+    std::cout << "integer value: " << std::cout << i << std::endl;
 }
