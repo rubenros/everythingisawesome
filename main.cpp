@@ -9,7 +9,7 @@ int main()
 	hello.hello();
 
 
-	std::cout << " I AM A GOD" << std::endl;
+	std::cout << "I AM A GOD" << std::endl;
 
 	return 0;
 }

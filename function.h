@@ -7,7 +7,6 @@ public:
 	~everythingisawesome();
 	void hello();
 
-
 };
 
 everythingisawesome::everythingisawesome()
@@ -26,5 +25,5 @@ void everythingisawesome::hello()
     std::cout << "everything is awesome!" << std::endl;
     std::cout << "input an integer: ";
     std::cin >> i;
-    std::cout << "integer value: " << std::cout << i << std::endl;
+    std::cout << "integer value: " << i << std::endl;
 }
