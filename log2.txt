@@ -1,0 +1,60 @@
+commit fd26186e1672c178ed51a09fdcb2b014d37e82f4
+Author: andrew <andyautopilot@hotmail.com>
+Date:   Mon May 12 10:32:38 2014 -0700
+
+    just added readme2.txt to test out for finals
+
+commit 757fa294d8339c567ef2d5fd2b7456e8c1f25718
+Author: curtis <curti.thesuperhero@gmail.com>
+Date:   Wed Apr 30 14:31:58 2014 -0700
+
+    oops. extra std::cout
+
+commit abd0bdf07124327f736b38759afed4bce72a450f
+Author: curtis <curti.thesuperhero@gmail.com>
+Date:   Wed Apr 30 11:44:36 2014 -0700
+
+    updated function
+
+commit 2725f8f3f4ff2d0380152fc6fe33c6c09f6268a4
+Author: andrew <andyautopilot@hotmail.com>
+Date:   Wed Apr 30 11:43:24 2014 -0700
+
+    committing the file
+
+commit dad7b5d53588f30c9720c3a72aa7e59f6851a028
+Author: unknown <ruben.ros@CS300-3D.acad.fullerton.edu>
+Date:   Wed Apr 30 11:36:15 2014 -0700
+
+    main.cpp
+
+commit 35500b949e800303f85e63d9ef7243afc86fb167
+Author: unknown <ruben.ros@CS300-3D.acad.fullerton.edu>
+Date:   Wed Apr 30 11:35:55 2014 -0700
+
+    function.h
+
+commit e8ffe306fe93f7a144e11bd61c6b20f5e1fce010
+Merge: 54133b2 e60321c
+Author: curtis <curti.thesuperhero@gmail.com>
+Date:   Wed Apr 30 11:23:23 2014 -0700
+
+    Merge branch 'master' of http://github.com/rubenros/everythingisawesome
+
+commit 54133b28f1a5d5562e555f38df1aafcb855a3fd6
+Author: curtis <curti.thesuperhero@gmail.com>
+Date:   Wed Apr 30 11:19:50 2014 -0700
+
+    main file
+
+commit e60321c0558b2c82d4cc506ade027a40b246c749
+Author: andrew <andyautopilot@hotmail.com>
+Date:   Wed Apr 30 11:19:37 2014 -0700
+
+    commit message
+
+commit 79b02785d22b2eca60f0f186efa43b2fa0cd85fe
+Author: andrew <andyautopilot@hotmail.com>
+Date:   Wed Apr 30 11:18:05 2014 -0700
+
+    commit message
